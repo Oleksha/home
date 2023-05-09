@@ -1,0 +1,102 @@
+[2023-04-22 19:04:49] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\workpayment\core\Router.php | Строка: 89
+--------------------
+[2023-04-22 19:08:48] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:24:28] Текст ошибки: Class 'workpayment\base\Controller' not found | Файл: H:\OSPanel\domains\home\app\controllers\AppController.php | Строка: 13
+--------------------
+[2023-04-22 19:25:17] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:27:43] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:41:40] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:43:40] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:43:41] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:43:42] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:43:43] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:43:43] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:44:58] Текст ошибки: Нет соединения с БД | Файл: H:\OSPanel\domains\home\vendor\home\core\Db.php | Строка: 27
+--------------------
+[2023-04-22 19:46:44] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'home.bank' doesn't exist | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-04-22 19:48:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'home.bank' doesn't exist | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-04-22 19:49:27] Текст ошибки: Шаблона home не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\base\View.php | Строка: 120
+--------------------
+[2023-04-29 08:44:44] Текст ошибки: Undefined variable: year | Файл: H:\OSPanel\domains\home\app\views\Main\index.php | Строка: 12
+--------------------
+[2023-04-29 08:44:44] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-07 11:46:17] Текст ошибки: Метод app\controllers\MainController::paymentAction не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 79
+--------------------
+[2023-05-07 13:29:18] Текст ошибки: Файл вида H:\OSPanel\domains\home/app/views/Main/payment.php не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\base\View.php | Строка: 101
+--------------------
+[2023-05-07 13:37:10] Текст ошибки: Файл вида H:\OSPanel\domains\home/app/views/Main/payment.php не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\base\View.php | Строка: 101
+--------------------
+[2023-05-07 13:37:10] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-07 13:37:16] Текст ошибки: Файл вида H:\OSPanel\domains\home/app/views/Main/payment.php не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\base\View.php | Строка: 101
+--------------------
+[2023-05-07 13:37:16] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-07 13:37:48] Текст ошибки: Файл вида H:\OSPanel\domains\home/app/views/Main/payment.php не найден | Файл: H:\OSPanel\domains\home\vendor\home\core\base\View.php | Строка: 101
+--------------------
+[2023-05-08 08:36:55] Текст ошибки: Страница не найдена | Файл: F:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-08 08:52:25] Текст ошибки: Страница не найдена | Файл: F:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-08 09:02:13] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-08 09:02:27] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-08 09:17:56] Текст ошибки: Undefined index: date_active | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 16
+--------------------
+[2023-05-08 09:17:58] Текст ошибки: Undefined index: date_active | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 16
+--------------------
+[2023-05-08 11:14:50] Текст ошибки: syntax error, unexpected '|', expecting ';' or '{' | Файл: H:\OSPanel\domains\home\app\models\Payment.php | Строка: 25
+--------------------
+[2023-05-08 16:01:14] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-09 08:22:42] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-09 08:56:52] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`home`.`payment`, CONSTRAINT `partner` FOREIGN KEY (`id_payment`) REFERENCES `partner` (`id`)) | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 09:01:25] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `home`.`payment`.`id_payment` at row 1 | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 09:07:02] Текст ошибки: Undefined index: type | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 54
+--------------------
+[2023-05-09 09:44:25] Текст ошибки: Undefined index: name | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 53
+--------------------
+[2023-05-09 09:44:42] Текст ошибки: Undefined index: name | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 53
+--------------------
+[2023-05-09 09:45:01] Текст ошибки: Undefined index: name | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 53
+--------------------
+[2023-05-09 13:25:22] Текст ошибки: Undefined index: id | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 56
+--------------------
+[2023-05-09 13:26:55] Текст ошибки: Undefined index: id | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 56
+--------------------
+[2023-05-09 13:29:41] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:30:00] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:31:11] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:31:43] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:31:44] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:32:05] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | Файл: H:\OSPanel\domains\home\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+--------------------
+[2023-05-09 13:32:58] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\home\vendor\home\core\Router.php | Строка: 89
+--------------------
+[2023-05-09 13:34:34] Текст ошибки: Undefined index: id | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 57
+--------------------
+[2023-05-09 15:38:24] Текст ошибки: Undefined index: filter | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 25
+--------------------
+[2023-05-09 16:25:48] Текст ошибки: Undefined index: id | Файл: H:\OSPanel\domains\home\app\controllers\MainController.php | Строка: 59
+--------------------

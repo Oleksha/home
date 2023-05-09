@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "home\\": "vendor/home/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+      "ext-mbstring": "*"
+    }
+}
